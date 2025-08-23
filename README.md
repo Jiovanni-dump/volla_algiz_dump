@@ -1,0 +1,14 @@
+# algiz-user 15 BP1A.250505.005 63 release-keys
+- manufacturer: volla
+- platform: mt6877
+- codename: algiz
+- flavor: algiz-user
+- release: 15
+- id: BP1A.250505.005
+- incremental: 63
+- tags: release-keys
+- fingerprint: volla/algiz/algiz:15/BP1A.250505.005/63:user/release-keys
+- is_ab: true
+- brand: volla
+- branch: algiz-user-15-BP1A.250505.005-63-release-keys
+- repo: volla_algiz_dump
