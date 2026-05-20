@@ -1,0 +1,14 @@
+# algiz-user 16 BP4A.251205.006 11-volla-16.0 release-keys
+- manufacturer: volla
+- platform: mt6877
+- codename: algiz
+- flavor: algiz-user
+- release: 16
+- id: BP4A.251205.006
+- incremental: 11-volla-16.0
+- tags: release-keys
+- fingerprint: Volla/algiz/algiz:15/AP3A.240905.015.A2/1:user/test-keys
+- is_ab: true
+- brand: Volla
+- branch: algiz-user-16-BP4A.251205.006-11-volla-16.0-release-keys
+- repo: volla_algiz_dump
