@@ -1,0 +1,32 @@
+#  start
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Volla
+ro.product.odm.device=algiz
+ro.product.odm.manufacturer=Volla
+ro.product.odm.model=Volla Phone Quintus
+ro.product.odm.name=algiz
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Thu Jan  1 01:00:01 CET 1970
+ro.odm.build.date.utc=1
+ro.odm.build.fingerprint=Volla/algiz/algiz:15/AP3A.240905.015.A2/1:user/test-keys
+ro.odm.build.id=AP3A.240905.015.A2
+ro.odm.build.tags=test-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=1
+ro.odm.build.version.release=15
+ro.odm.build.version.release_or_codename=15
+ro.odm.build.version.sdk=35
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file
+#  end
+

@@ -1,0 +1,10 @@
+<!--
+    Input:
+        device/daria/X9/livedisplay/vendor.lineage.livedisplay-service.sysfs-se.xml
+-->
+<manifest version="8.0" type="device">
+    <hal format="aidl">
+        <name>vendor.lineage.livedisplay</name>
+        <fqname>ISunlightEnhancement/default</fqname>
+    </hal>
+</manifest>

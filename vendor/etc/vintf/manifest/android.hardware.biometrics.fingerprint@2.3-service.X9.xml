@@ -1,0 +1,11 @@
+<!--
+    Input:
+        device/daria/X9/biometrics/android.hardware.biometrics.fingerprint@2.3-service.X9.xml
+-->
+<manifest version="8.0" type="device">
+    <hal format="hidl">
+        <name>android.hardware.biometrics.fingerprint</name>
+        <transport>hwbinder</transport>
+        <fqname>@2.3::IBiometricsFingerprint/default</fqname>
+    </hal>
+</manifest>
